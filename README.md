@@ -1,7 +1,7 @@
 # Trabajo practico de Técnicas de programación - Grupo 5
 
 
-## Librerias a instalas
+## Librerias a instalar
 - pip install mariadb
 - pip install tabulate
 
@@ -27,8 +27,8 @@
             ............                    => .......
         ])
     ```
-- Las otras funciones son muy descriptivas xd -->
+- Las otras funciones son muy descriptivas xd 
 
 ## Archivo Test.py
 - Este archivo lo usé para ir probando cosas. Pueden usarlo para probar lo que quieran, como consultas, inserts, funciones, etc. 
-# IFTS24-Tecnicas_de_programacion_TP
+-->
